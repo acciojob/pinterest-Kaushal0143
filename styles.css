@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
-.container{
+.hero{
 display:flex;
 	justify-content:center;
 	align-items:center;
 }
-.container img{
+.hero img{
 	width:90%;
 	height:20%;
 }
@@ -14,15 +14,15 @@ display:flex;
 	flex-direction:column;
 	align-items:center;
 }
-.container h1 {}
+.hero h1 {}
 	text-align:center;
 	margin-bottom:0px;
 }
-.container p{
+.hero p{
 	margin-top:0px;
 	
 }
-.container button{
+.hero button{
 	background-color:red;
 	width:fit-content;
 	color:white;
